@@ -15,11 +15,11 @@ async def start(c, m):
             [
                 [
                     InlineKeyboardButton(
-                        "Source 😒", url="https://github.com/odysseusmax/animated-lamp"
+                        "My Source 😒", url="https://github.com/odysseusmax/animated-lamp"
                     ),
-                    InlineKeyboardButton("Project Channel", url="https://t.me/odbots"),
+                    InlineKeyboardButton("Base Source", url="https://github.com/odysseusmax/animated-lamp"),
                 ],
-                [InlineKeyboardButton("My Father", url="https://t.me/odysseusmax")],
+                [InlineKeyboardButton("Join Channel", url="https://t.me/Infinity_Bots")],
             ]
         ),
     )

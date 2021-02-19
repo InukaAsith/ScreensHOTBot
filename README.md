@@ -2,7 +2,7 @@
 > Telegram Bot For Screenshot Generation.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/inukaasith/screensHOTBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/inukaasith/ScreensHOTBot)
 
 ## Description
 
@@ -110,7 +110,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contac base owner [@odysseusmax](https://tx.me/odysseusmax).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.

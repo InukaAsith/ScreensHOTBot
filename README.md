@@ -1,6 +1,8 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
-
+# ScreensHOT Bot (Heroku Optimized version of  github.com/odysseusmax/animated-lamp)
 > Telegram Bot For Screenshot Generation.
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/inukaasith/screensHOTBot)
 
 ## Description
 
